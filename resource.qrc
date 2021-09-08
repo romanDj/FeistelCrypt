@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/GOST-1.bmp</file>
+        <file>img/GOST-2.bmp</file>
+        <file>img/Схема.bmp</file>
+    </qresource>
+</RCC>
